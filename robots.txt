@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://shankerkarra.github.io/blogsitemap.xml
